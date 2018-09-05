@@ -8,3 +8,8 @@ commit -a 	 //提交所有文件
 git diff '文件名'//查看修改的内容
 再次测试 添加文件 为下一步 退版本做准备 Bsah Shell 输入的 
 我是傻子啊 我是windows电脑啊 可以直接在可视化界面修改文件啊  现在测试GUI 修改文件
+git status 版本状态
+git log 操作日志
+git reflog 命令日志
+git reset --hard 本地版本切换
+
